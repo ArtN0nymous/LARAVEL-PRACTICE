@@ -1,0 +1,1 @@
+el nombre es:{{$nombre." ".$apellido}}
